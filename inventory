@@ -1,0 +1,11 @@
+[db]
+db.kalyaneswar.online
+
+[backend]
+backend.kalyaneswar.online
+
+[frontend]
+kalyaneswar.online
+
+[all:vars]
+ansible_password=DevOps321
